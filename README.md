@@ -2,6 +2,7 @@
 
 The challenge is to recognize fraudulent credit card transactions so that the customers of credit card companies are not charged for items that they did not purchase.
 
+![image](xenonstack-credit-card-fraud-detection.png)
 # Main challenges involved in credit card fraud detection are:
 
 1) Enormous Data is processed every day and the model build must be fast enough to respond to the scam in time.
